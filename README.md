@@ -14,6 +14,8 @@ Intagram: https://www.instagram.com/gatitocutegd/
 
 Twitter: https://twitter.com/Gatitocutegd
 
+Pinterest: https://www.pinterest.es/adrianhelencastellonvallecillo/_saved/
+
 ### ¿Que paso con youtube?
 
 ```
