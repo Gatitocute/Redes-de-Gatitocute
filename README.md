@@ -1,6 +1,6 @@
 ## Bienvenido a las redes sociales de Gatitocute
 
-Aqui veras todas las redes sociales de Gatitocute. https://gatitocute.github.io/Redes-de-Gatitocute/
+Aqui veras todas las redes sociales de Gatitocute.
 
 ### Hola
 
