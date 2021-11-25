@@ -4,19 +4,19 @@ Aqui veras todas las redes sociales de Gatitocute.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Hola
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+AAA hola wenas xd
 
 ```markdown
-Syntax highlighted code block
+No se que hago aqui
 
-# Header 1
-## Header 2
-### Header 3
+# Advyout
+## FueraJOH
+### Xiomara
 
-- Bulleted
-- List
+- Aprendiendo...
+- No se que estoy haciendo la verdad 
 
 1. Numbered
 2. List
